@@ -5,6 +5,6 @@ Dogs are loyal, domesticated mammals known for their diverse breeds, sizes, and 
 ![dog images](dogs.jpg)
 ![dog images](dog.webp)
 ![dog images](dogs2.jpeg)
-<img src = "dogs.jpg" alt = "first dog image" width = "400px" height = "1/1">
-<img src = "dog.webp" alt = "second dog image" width = "400px" height = "1/1">
-<img src = "dogs2.jpeg" alt = "third dog image" width = "400px" height = "1/1">
+<img src = "dogs.jpg" alt = "first dog image" width = "400px" height = "auto">
+<img src = "dog.webp" alt = "second dog image" width = "400px" height = "auto">
+<img src = "dogs2.jpeg" alt = "third dog image" width = "400px" height = "auto">
