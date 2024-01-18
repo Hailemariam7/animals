@@ -3,9 +3,9 @@
 We selected three animals and having briefly described them, we have added images.
 The animals chosen are:
 
-- Lion
-- Cat
-- Dog
+- Lion *https://en.wikipedia.org/wiki/Lion*
+- Cat *https://en.wikipedia.org/wiki/Cat*
+- Dog *https://en.wikipedia.org/wiki/Dog*
 
 ## A fourth animal added
 
